@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Android Jetpack Compose
+- 🌱 I’m currently learning Android
+- 👯 I’m looking to collaborate on Android/Kootlin/Java
+
+[![roadmap.sh](https://roadmap.sh/card/wide/67133012791f57dd60d96c24?variant=dark&roadmaps=android)](https://roadmap.sh)
