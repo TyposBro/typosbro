@@ -39,6 +39,8 @@ Based in Seoul. E-7 visa, open to senior roles in Korean tech.
 ### Writing + contact
 
 - Portfolio: [typosbro.github.io](https://typosbro.github.io)
+- Twitter / X: [@typosbro63199](https://x.com/typosbro63199)
+- LinkedIn: [linkedin.com/in/typosbro54](https://www.linkedin.com/in/typosbro54/)
 - Email: typosbro@proton.me
 - Open to: senior Android / full-stack / platform engineering roles in Korea
 
