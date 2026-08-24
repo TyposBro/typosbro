@@ -1,19 +1,14 @@
 # Azizbek Umidjonov
 
 Software engineer building consumer + infrastructure products end-to-end.
-Based in Seoul. E-7 visa, open to senior roles in Korean tech.
+Based in Seoul. F2-7 visa, open to senior roles in Korean tech.
 
 ---
 
 ### Current work
 
-- **Brivva Tech** — tech co-founder. Real-time multilingual live-commerce
-  broadcasting. Rust + Cloudflare Workers + AWS Fargate. Korean market first.
 - **Spiko English** — solo-built English learning app. 100K+ downloads,
   62K MAU, profitable. Kotlin + Jetpack Compose + Cloudflare.
-- **[agent-vault](https://github.com/TyposBro/agent-vault)** — OSS, one
-  markdown memory vault for every AI coding agent. Ships provider-agnostic
-  exports for Claude Code, Codex, Gemini CLI.
 
 ### Stack
 
@@ -21,20 +16,6 @@ Based in Seoul. E-7 visa, open to senior roles in Korean tech.
 **Frontend:** React, Next.js, Svelte, Astro, Tailwind, Vite
 **Backend:** Node, Hono (Cloudflare Workers + D1 + R2), Rust (Axum + tokio)
 **Infra:** Cloudflare, AWS Fargate + ECS, Terraform, GitHub Actions
-
-### Open source
-
-- [Hono.js](https://github.com/honojs/hono/pull/4722) — merged contributor
-- [uzpay](https://www.npmjs.com/package/uzpay) — payment gateways for
-  Uzbekistan (Payme / Click / Paynet). Zero dependencies, runtime-agnostic,
-  ~80 weekly installs.
-- [cloudflare-hono-starter](https://github.com/TyposBro/cloudflare-hono-starter) —
-  production Workers API template
-- [android-clean-arch-template](https://github.com/TyposBro/android-clean-arch-template) —
-  Kotlin + Compose + Clean Architecture, extracted from an app serving
-  40K+ users
-- [caveman](https://github.com/TyposBro/caveman) — Claude Code skill that
-  cuts ~65% of tokens by talking like caveman
 
 ### Writing + contact
 
