@@ -26,8 +26,6 @@ Seoul, South Korea (KST, UTC+9) — working remotely with teams anywhere.
   400–800 daily users, 0.27% crash rate, 0.11% ANR rate, live on Google Play.
 - **uzpay** — zero-dependency TypeScript payment library for Uzbekistan's
   Payme, Click, and Paynet providers. Published on npm, used in production.
-- **agent-vault** — one markdown memory vault for every AI coding agent.
-  Local-first, git-backed, provider-neutral.
 
 I run AI coding agents as a real production workflow — around 300 agent
 sessions and 1,000+ lines of automation. That is why the delivery speed is
