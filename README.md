@@ -15,6 +15,8 @@ Seoul, South Korea (KST, UTC+9) — working remotely with teams anywhere.
   subscription integration.
 - **Build or fix the backend** — Cloudflare Workers, D1, R2, Hono, Node,
   Postgres.
+- **Build real-time media pipelines** — live streaming, multi-platform RTMP
+  fan-out, speech-to-text, translation, low-latency TTS.
 - **Add AI features** to a product that already has users.
 
 ### Receipts
@@ -22,6 +24,11 @@ Seoul, South Korea (KST, UTC+9) — working remotely with teams anywhere.
 - **Spiko English** — solo-built English learning app. 100K+ downloads,
   62K MAU, 7,300 DAU, profitable. Kotlin + Jetpack Compose + Cloudflare.
   ~1,320 commits over the app's lifetime.
+- **Brivva** — co-founded and built the technology for real-time multilingual
+  live commerce: a Rust media pipeline (Axum, Tokio, GPU ffmpeg), a Cloudflare
+  Workers API, shared OpenAPI contracts, and OpenTofu infrastructure. 614
+  commits, ~21k lines of Rust. Archived when the funding round did not close,
+  now [open source](https://github.com/TyposBro/brivva).
 - **Oki** — took a language-learning app's Android client to production.
   400–800 daily users, 0.27% crash rate, 0.11% ANR rate, live on Google Play.
 - **uzpay** — zero-dependency TypeScript payment library for Uzbekistan's
