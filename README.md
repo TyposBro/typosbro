@@ -21,9 +21,10 @@ Seoul, South Korea (KST, UTC+9) — working remotely with teams anywhere.
 
 ### Receipts
 
-- **Spiko English** — solo-built English learning app. 100K+ downloads,
-  62K MAU, 7,300 DAU, profitable. Kotlin + Jetpack Compose + Cloudflare.
-  ~1,320 commits over the app's lifetime.
+- **Spiko English** — solo-built English learning app. 100K+ installs and
+  4.8 stars on Google Play, cash-positive after infrastructure, AI inference,
+  platform fees and taxes. Kotlin + Jetpack Compose + Cloudflare. ~1,320
+  commits over the app's lifetime.
 - **Brivva** — co-founded and built the technology for real-time multilingual
   live commerce: a Rust media pipeline (Axum, Tokio, GPU ffmpeg), a Cloudflare
   Workers API, shared OpenAPI contracts, and OpenTofu infrastructure. 614
